@@ -1,0 +1,10 @@
+title: Akanksha Atrey
+url: "www.cs.umass.edu/~aatrey"
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
