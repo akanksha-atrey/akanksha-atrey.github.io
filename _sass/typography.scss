@@ -27,22 +27,21 @@
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
         position: absolute;
-        left: -30px;
+        left: -30px
     }
     blockquote {
         //border: 1px solid black;
-        border-left: 5px solid #333333;
+        border-left: 5px solid #00CED1;
         margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
     .profile-picture {
-        height: $image-size;
-        width: $image-size;
+        height: $image-size*2;
+        width: $image-size*2;
         position: relative;
-        margin: -10px 0 0 15px;
+        #margin: -10px 0 0 15px;
         float: right;
-        border-radius: 50%;
         p & {
             padding: 0;
             margin: 0;
