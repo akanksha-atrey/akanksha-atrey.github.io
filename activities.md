@@ -2,22 +2,20 @@
 layout: default
 ---
 
-## Projects
+## Current
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Computer Science PhD Social Chair *(Sept 2017 - present)*
+* Computer Science New Student Committee Chair *(Sept 2017 - present)*
+* GSS Senator *(Sept 2017 - present)*
 
 ---
 
-## Mailing Address
+## Past
 
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Indian Student Organization – Vice President *(Jun 2016 – Dec 2016)*
+* Tau Sigma National Honor Society – President *(Jun 2016 – Dec 2016)*
+* Transfer Student Peer Mentor *(Sept 2015 – Dec 2016)*
+* Tau Sigma National Honor Society – Secretary *(Mar 2015 – Mar 2016)*
+* Asian Pacific American Conference – Logistics Chair *(Jan 2015 – Apr 2015)*
 
 ---

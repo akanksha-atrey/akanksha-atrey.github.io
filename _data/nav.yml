@@ -1,11 +1,11 @@
-- name: "CV"
-  link: "CV.pdf"
+- name: "Awards"
+  link: "awards"
 
 - name: "Activities"
   link: "activities"
 
-- name: "Achievements"
-  link: "achievements"
+- name: "Publications"
+  link: "publications"
 
 - name: "Projects"
   link: "projects"
