@@ -14,4 +14,8 @@ Prior to joing UMass, I was a software engineer at IBM where I worked on the IBM
 
 ---
 
-> ~ **The most dangerous phrase in the language is, "We've always done it this way."** ~ -Grace Hopper
+## Recent News
+
+> - Got selected (with scholarship) to attend the CRA-W Grad Cohort 2018 in San Francisco, CA
+> - Will be attending Women in Data Science Central Mass Conference in Worcester, MA
+> - Presented [Do Diverse Social Interactions Make Us Smile More Often? Studying Smiles and Diversity Via Social Media Photos](https://wp.comminfo.rutgers.edu/vsingh/wp-content/uploads/sites/110/2017/10/ACMMM_Singh_Diversity_Smile.pdf) at [ACM Multimedia 2017](http://www.acmmm.org/2017/) in San Jose, CA (10/26/17).
