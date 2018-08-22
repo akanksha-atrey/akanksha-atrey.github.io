@@ -18,10 +18,10 @@ body {
     color: black;
     padding-top: 60px;
     padding-left: 160px;
-    background-image: url('/umasslogo2.jpg'), url('/background.png');
-    background-position: center top 5px, center;
-    background-size: 150px auto, auto;
-    background-repeat: no-repeat, repeat;
+    background-image: url('/background.png');
+    background-position: center;
+    background-size: auto;
+    background-repeat: repeat;
 }
 hr {
     border: 0;
@@ -36,7 +36,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    margin-top: -0.15em;
+    margin-top: 10px;
     color: white;
     display: inline-block;
 }
@@ -50,6 +50,10 @@ hr {
     background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
+    background-image: url('/umasslogo2.jpg'), url('/kdl-logo-initials-only.gif');
+    background-position: left top 0px, right top 0px;
+    background-size: 150px auto, 50px auto;
+    background-repeat: no-repeat, no-repeat;
 }
 .navbar a {
     padding: 6px 8px 6px 16px;
