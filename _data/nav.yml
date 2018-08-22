@@ -1,14 +1,14 @@
-- name: "Awards"
-  link: "awards"
-
-- name: "Activities"
-  link: "activities"
-
-- name: "Publications"
-  link: "publications"
+- name: "About"
+  link: "/"
 
 - name: "Projects"
   link: "projects"
 
-- name: "About"
-  link: "/"
+- name: "Publications"
+  link: "publications"
+
+- name: "Activities"
+  link: "activities"
+  
+- name: "Awards"
+  link: "awards"

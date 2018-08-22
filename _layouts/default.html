@@ -57,21 +57,31 @@
     <div class="wrapper">
         <div class="navbar container">
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
+            <p style="color:white;text-align:center;margin-top:0.1em;"> Research Assistant </p>
+            <img class="profile-picture" src="akanksha.png" width="175" height="auto"/>
             <ul class="alignable pull-right navbar-ul">
                 {% for x in site.data.nav %}
                     {% if x.name == "CV" %}
-                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a></li>
                     {% else %}
-                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
                     {% endif %}
-                    {% if forloop.first == false %}
-                        /
-                    {% endif %}
-                        </li>
                 {% endfor %}
             </ul>
         </div>
         <div style="clear:both"></div>
+        <div class="icon-bar">
+              <!--CV icon-->
+              <a href="CV.pdf" target="_blank"><img alt="" src="cv_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
+              <!--Email icon-->
+              <a href="mailto:aatrey@cs.umass.edu" target="_blank"><img alt="" src="email_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
+              <!--LinkedIn icon-->
+              <a href="https://www.linkedin.com/in/akankshaatrey/" target="_blank"><img alt="" src="linkedin_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
+              <!--Github icon-->
+              <a href="https://github.com/akanksha95" target="_blank"><img alt="" src="github_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
+              <!--Google Scholar icon-->
+              <a href="https://scholar.google.com/citations?user=Jf_jES4AAAAJ&hl=en&oi=ao" target="_blank"><img alt="" src="gscholar_logo.png" height="32" width="32"/> </a>&nbsp; &nbsp;&nbsp;
+        </div>
         <hr>
         {% if page.is_contact == true %}
             <div class="container content contact">
@@ -93,6 +103,4 @@
           ga('send', 'pageview');
         </script>
     {% endif %}
-
-    {% include footer.html %}
 </body>
