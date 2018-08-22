@@ -2,6 +2,7 @@
 layout: default
 ---
 
+
 ## About Me
 
 <img class="profile-picture" src="akanksha.png">
@@ -16,6 +17,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the I
 
 ## Recent News
 
+> - Received the Lori A. Clarke Scholarship in Computer Science 2018 from CICS, UMass Amherst
 > - Got selected (with scholarship) to attend the CRA-W Grad Cohort 2018 in San Francisco, CA
 > - Presented [Do Diverse Social Interactions Make Us Smile More Often? Studying Smiles and Diversity Via Social Media Photos](http://delivery.acm.org/10.1145/3130000/3127908/p1818-singh.pdf?ip=128.119.40.194&id=3127908&acc=ACTIVE%20SERVICE&key=73B3886B1AEFC4BB%2E0404F0890BAA435B%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1519405205_2537b3e41531841f4da7285b125e88cd) at [ACM Multimedia 2017](http://www.acmmm.org/2017/) in San Jose, CA (10/26/17).
 
