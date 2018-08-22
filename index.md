@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a second year MS/PhD student at the [College of Computer and Information Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). As part of the [Knowledge Discovery Lab](https://kdl.cs.umass.edu/display/public/Knowledge+Discovery+Laboratory), I work with Prof. [David Jensen](https://people.cs.umass.edu/~jensen/). My current research interests lie in building and using causal models for complex machine learning and data problems to extract information with a special interest in interdisplinary applications, particularly security and computational social science.
+I am a second year MS/PhD student at the [College of Computer and Information Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). As part of the [Knowledge Discovery Lab](https://kdl-umass.github.io/), I work with Prof. [David Jensen](https://people.cs.umass.edu/~jensen/). My current research interests lie in building and using causal models for complex machine learning and data problems to extract information with a special interest in interdisplinary applications, particularly security and computational social science.
 
 My prior work (produced in my undergrad) have been oriented towards using data mining and machine learning techniques to understand real world issues in the fields of computational social science, information science, applied statistics and mathematics.
 
