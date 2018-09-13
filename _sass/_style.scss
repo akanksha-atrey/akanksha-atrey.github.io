@@ -36,7 +36,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    margin-top: 10px;
+    margin-top: 40px;
     color: white;
     display: inline-block;
 }
@@ -50,9 +50,9 @@ hr {
     background-color: black;
     overflow-x: hidden;
     padding-top: 20px;
-    background-image: url('/umasslogo2.jpg'), url('/kdl-logo-initials-only.gif');
-    background-position: left top 0px, right top 0px;
-    background-size: 150px auto, 50px auto;
+    background-image: url('/umasslogo_white.png'), url('/kdl-logo-initials-only.gif');
+    background-position: left 1px top 1px, right 1px top 1px;
+    background-size: 138px auto, 50px auto;
     background-repeat: no-repeat, no-repeat;
 }
 .navbar a {
