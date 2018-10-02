@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a second year MS/PhD student at the [College of Computer and Information Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). As part of the [Knowledge Discovery Lab](https://kdl-umass.github.io/), I work with Prof. [David Jensen](https://people.cs.umass.edu/~jensen/). My current research interests lie in building and using causal models for complex machine learning and data problems to extract information with a special interest in interdisplinary applications, particularly security and computational social science.
+I am a second year MS/PhD student at the [College of Computer and Information Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). As part of the [Knowledge Discovery Lab](https://kdl-umass.github.io/), I work with Prof. [David Jensen](https://people.cs.umass.edu/~jensen/). My current research interests lie in building and using causal models to explain deep networks. I am also interested in interdisplinary applications of causal modeling, particularly security and computational social science.
 
 My prior work (produced in my undergrad) have been oriented towards using data mining and machine learning techniques to understand real world issues in the fields of computational social science, information science, applied statistics and mathematics.
 
@@ -15,6 +15,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the I
 
 ## Recent News
 
+> - Got accepted to speak at [IBM AI Systems Day 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=9595) on "Mocking Atari for Deep Reinforcement Learning". (October 2018)
 > - Mentored young, female K-12 students in an introductory programming workshop by Girls Inc. Eureka! using the Arduino language. (July 2018) 
 > - Received the [Lori A. Clarke Scholarship in Computer Science](https://www.cics.umass.edu/news/latest-news/lori-clarke-scholarship-created) 2018 from [CICS](https://www.cics.umass.edu/), UMass Amherst (June 2018)
 > - Got selected (with scholarship) to attend the [CRA-W Grad Cohort 2018](https://cra.org/cra-w/events/grad-cohort-women-2018/) in San Francisco, CA (April 2018)
