@@ -15,6 +15,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the I
 
 ## Recent News
 
+> - Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
 > - Our workshop paper titled "Generalization in Deep Reinforcement Learning" got accepted in the [Critiquing and Correcting Trends in Machine Learning Workshop](https://ml-critique-correct.github.io/) at [NeurIPS 2018](https://nips.cc/). (December 2018)
 > - Got accepted to speak at [IBM AI Systems Day 2018](https://researcher.watson.ibm.com/researcher/view_group.php?id=9595) on "Mocking Atari for Deep Reinforcement Learning". (October 2018)
 > - Received the [Lori A. Clarke Scholarship in Computer Science](https://www.cics.umass.edu/news/latest-news/lori-clarke-scholarship-created) 2018 from [CICS](https://www.cics.umass.edu/), UMass Amherst (June 2018)
