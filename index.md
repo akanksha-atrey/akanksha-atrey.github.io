@@ -15,6 +15,8 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the I
 
 ## Recent News
 
+> - Presented [Identifying When Effect Restoration Will Improve Estimates of Causal Effect](https://akanksha95.github.io/papers/Oktay_Effect_SDM19.pdf) at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
+> - Received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019)
 > - I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer.
 > - Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
 > - Our workshop paper titled "Generalization in Deep Reinforcement Learning" got accepted in the [Critiquing and Correcting Trends in Machine Learning Workshop](https://ml-critique-correct.github.io/) at [NeurIPS 2018](https://nips.cc/). (December 2018)
