@@ -11,6 +11,8 @@ My prior work (produced in my undergrad) have been oriented towards using data m
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the IBM z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the State University of New York at Albany.
 
+I am currently interning at [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/).
+
 ---
 
 ## Recent News
