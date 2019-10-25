@@ -15,7 +15,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the I
 
 ## Recent News
 
-> - Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at Women in Machine Learning Workshop 2019 (September 2019).
+> - Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/) (September 2019).
 > - Presented [Identifying When Effect Restoration Will Improve Estimates of Causal Effect](https://akanksha95.github.io/papers/Oktay_Effect_SDM19.pdf) at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
 > - Received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019)
 > - I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer.
