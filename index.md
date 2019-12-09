@@ -5,7 +5,7 @@ layout: default
 
 ## About Me
 
-I am a third year MS/PhD student at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). As part of the [Knowledge Discovery Laboratory](https://kdl-umass.github.io/), I work with Prof. [David Jensen](https://people.cs.umass.edu/~jensen/). My current research interests lie in employing causal modeling techniques to understand, evaluate and develop ML models. I am also interested in interdisciplinary applications of causal modeling, particularly security and computational social science.
+I am a third year MS/PhD student at the [College of Information and Computer Sciences](https://www.cics.umass.edu/) at the [University of Massachusetts Amherst](https://www.umass.edu/). I work with Prof. [David Jensen](https://groups.cs.umass.edu/jensen/) in the [Knowledge Discovery Laboratory](http://groups.cs.umass.edu/kdl/). My current research interests lie in employing causal modeling techniques to understand, evaluate and develop ML models. I am also interested in interdisciplinary applications of causal modeling, particularly privacy and computational social science.
 
 My prior work (produced in my undergrad) have been oriented towards using data mining and machine learning techniques to understand real world issues in the fields of computational social science, information science, applied statistics and mathematics.
 
