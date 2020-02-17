@@ -6,10 +6,11 @@ layout: default
 
 > **Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL**
 
-Saliency maps have been used to support explanations of deep reinforcement learning (RL) agent behavior over temporally extended sequences. However, their use in the community indicates that the explanations derived from saliency maps are often unfalsifiable and can be highly subjective. We introduce an empirical approach grounded in counterfactual reasoning to test the hypotheses generated from saliency maps and assess the degree to which saliency maps represent semantics of RL environments. We evaluate three types of saliency maps using Atari games, a common benchmark for deep RL. Our results show the extent to which existing claims about Atari games can be evaluated and suggest that saliency maps are an exploratory tool not an explanatory tool.
+Saliency maps are frequently used to support explanations of the behavior of deep reinforcement learning (RL) agents. However, a review of how saliency maps are used in practice indicates that the derived explanations are often unfalsifiable and can be highly subjective. We introduce an empirical approach grounded in counterfactual reasoning to test the hypotheses generated from saliency maps and assess the degree to which they correspond to the semantics of RL environments. We use Atari games, a common benchmark for deep RL, to evaluate three types of saliency maps. Our results show the extent to which existing claims about Atari games can be evaluated and suggest that saliency maps are best viewed as an exploratory tool rather than an explanatory tool.
 
 Presented at:
 - Women in Machine Learning Workshop 2019 ([Poster](presentations/WiML2019_sm.pdf))
+- ICLR 2020 (Poster, [Code](https://github.com/KDL-umass/saliency_maps))
 
 > **Identifying When Effect Restoration Will Improve Estimates of Causal Effect**
 

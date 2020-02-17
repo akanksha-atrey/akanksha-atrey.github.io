@@ -4,7 +4,7 @@ layout: default
 
 ## Publications
 
-1. **Atrey A.**, Clary K., & Jensen, D. (2019, Dec). [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](papers/Atrey_Exploratory19.pdf). _arXiv preprint_.
+1. **Atrey A.**, Clary K., & Jensen, D. (2020, Apr). [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](papers/atrey_exploratory_iclr20). In ICLR 2020.
 1. Oktay, H., **Atrey, A.**, & Jensen, D. (2019, May). [Identifying When Effect Restoration Will Improve Estimates of Causal Effect](papers/Oktay_Effect_SDM19.pdf). In SIAM International Conference on Data Mining 2019.
 1. Witty, S., Lee, J. K., Tosch, E., **Atrey, A.**, Jensen, D. & Littman, M. (2018, December). [Measuring and Characterizing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1812.02868). _arXiv preprint arXiv:1812.02868_.
 1. Witty, S., Lee, J. K., Tosch, E., **Atrey, A.**, Jensen, D. & Littman, M. (2018, December). [Generalization in Deep Reinforcement Learning](papers/Witty_Generalization_NeurIPS18.pdf). In Critiquing and Correcting Trends in Machine Learning Workshop at NeurIPS 2018.
