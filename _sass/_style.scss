@@ -42,15 +42,24 @@ hr {
 }
 
 /*
- * Navbar
+ * Bio
  */
-
 #author-name {
     font-size: 30px;
-    margin-top: 40px;
+    margin-top: 10px;
     color: black;
     display: inline-block;
 }
+.bio {
+    max-width: 60%;
+    margin: auto;
+    max-heigh: auto;
+}
+
+/*
+ * Navbar
+ */
+
 .navbar {
     padding: 0;
 }
@@ -60,10 +69,10 @@ hr {
     padding-left: 0;
     padding-bottom: 20px;
     font-size: 18px;
-    text-decoration: none;
 }
 .navbar a {
     color: #3090C7;
+    text-decoration: underline;
 }
 
 /* Divs */
