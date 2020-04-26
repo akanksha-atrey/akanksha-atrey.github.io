@@ -16,7 +16,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 * Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (December 2019)
 * Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (September 2019)
-* I presented [Identifying When Effect Restoration Will Improve Estimates of Causal Effect](https://akanksha95.github.io/papers/Oktay_Effect_SDM19.pdf) at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
+* I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
 * Received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019)
 * I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer.
 * Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
@@ -26,7 +26,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Publications
 
-1. **Atrey A.**, Clary K., & Jensen, D. (2020, Apr). [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](papers/atrey_exploratory_iclr20). In ICLR 2020.
+1. **Atrey A.**, Clary K., & Jensen, D. (2020, Apr). [Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL](papers/atrey_exploratory_iclr20.pdf). In ICLR 2020.
 1. Oktay, H., **Atrey, A.**, & Jensen, D. (2019, May). [Identifying When Effect Restoration Will Improve Estimates of Causal Effect](papers/Oktay_Effect_SDM19.pdf). In SIAM International Conference on Data Mining 2019.
 1. Witty, S., Lee, J. K., Tosch, E., **Atrey, A.**, Jensen, D. & Littman, M. (2018, December). [Measuring and Characterizing Generalization in Deep Reinforcement Learning](https://arxiv.org/abs/1812.02868). _arXiv preprint arXiv:1812.02868_.
 1. Witty, S., Lee, J. K., Tosch, E., **Atrey, A.**, Jensen, D. & Littman, M. (2018, December). [Generalization in Deep Reinforcement Learning](papers/Witty_Generalization_NeurIPS18.pdf). In Critiquing and Correcting Trends in Machine Learning Workshop at NeurIPS 2018.
