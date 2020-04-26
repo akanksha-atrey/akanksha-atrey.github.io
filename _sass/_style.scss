@@ -34,19 +34,11 @@ hr {
     height: 0;
 }
 
-.icon a {
-    display: inline-block;
-}
-.icon a:hover {
-    background-color: #3090C7;
-}
-
 /*
  * Bio
  */
 #author-name {
     font-size: 30px;
-    margin-top: 10px;
     color: black;
     display: inline-block;
 }
@@ -54,6 +46,13 @@ hr {
     max-width: 60%;
     margin: auto;
     max-heigh: auto;
+}
+.icon a {
+    display: inline-block;
+    padding-right: 20px;
+}
+.icon a:hover {
+    background-color: #3090C7;
 }
 
 /*
