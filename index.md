@@ -8,7 +8,7 @@ I am a third year MS/Ph.D. student. My current research interests lie broadly at
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop ML models.
 
-Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [Univerity at Albany, SUNY](https://www.albany.edu/).
+Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
 ---
 
