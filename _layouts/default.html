@@ -10,79 +10,48 @@
     {% if page.url == "/404.html" %}
         <meta http-equiv="refresh" content="5; url=/">
     {% endif %}
-    {% if page.description %}
-        {% assign desc = page.description %}
-    {% else %}
-        {% assign desc = site.description %}
-    {% endif %}
-    {% if page.url %}
-        {% assign url = site.url | append: site.baseurl | append: page.url %}
-    {% else %}
-        {% assign url = site.url | append: site.baseurl | append: page.url %}
-    {% endif %}
     <meta name="description" content="{{ desc }}">
     <link href='https://fonts.googleapis.com/css?family=Inconsolata:400,700' rel='stylesheet' type='text/css'>
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }} RSS" href="/feed.xml" />
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url}}">
-    {% if site.favicon %}
-        <link rel="icon" type="image/ico" href="{{ site.favicon_location }}">
-        <link rel="shortcut-icon" type="image/ico" href="{{ site.favicon_location }}">
-    {% endif %}
-    {% if site.twitter_username %}
-        <link rel="author" href="https://twitter.com/{{ site.twitter_username }}">
-    {% endif %}
-    <!-- Facebook Open Graph -->
-    <meta name="og:description" content="{{ desc }}">
-    <meta name="og:title" content="{{ site.title }}">
-    <meta name="og:url" content="{{ url }}">
-    <meta name="og:type" content="article">
-    {% if site.og_image %}
-        <meta name="og:image" content="{{ site.og_image }}">
-    {% endif %}
-    {% if site.facebook_id %}
-        <meta name="fb:admins" content="{{ site.facebook_id }}">
-    {% endif %}
-    <!-- Twitter -->
-    <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="{{ site.title }}">
-    <meta name="twitter:description" content="{{ desc }}">
-    <meta name="twitter:url" content="{{ url }}">
-    {% if site.twitter_image %}
-        <meta name="twitter:image" content="{{ site.twitter_image }}">
-    {% else %}
-        <meta name="twitter:image" content="{{ site.profile_picture }}">
-    {% endif %}
+    <style> a { text-decoration: none; } </style>
 </head>
 <body>
     <div class="wrapper">
         <div class="navbar container">
-            <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
-            <p style="color:white;text-align:center;margin-top:0.1em;"> Research Assistant </p>
-            <center><img src="akanksha.png" width="175" height="auto"></center>
             <ul class="alignable pull-right navbar-ul">
                 {% for x in site.data.nav %}
-                    {% if x.name == "CV" %}
-                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a></li>
-                    {% else %}
-                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a></li>
-                    {% endif %}
+                    <a style="margin-right : 1em;" href="{{ x.link }}">{{ x.name }}</a>
                 {% endfor %}
             </ul>
+            <div style="width: 100%;">
+                <div style="width: 30%; height: 100%; float: left;"> 
+                    <img src="akanksha.png" width="200" height="auto">
+                </div>
+                <div style="width: 70%; height: 100%; float: left;">
+                    <a id="author-name" class="alignable pull-left" style="margin-top: 10px;">{{ site.title }}</a>
+                    <p style="line-height:1.7";> Ph.D. Student <br> 
+                        <a href="http://lass.cs.umass.edu/">Laboratory for Advanced Software Systems</a><br> 
+                        <a href="https://www.umass.edu/">University of Massachusetts Amherst</a><br>
+                        <b>Advisor</b>: <a href="https://people.cs.umass.edu/~shenoy/">Prashant Shenoy</a>
+                        <div class="icon">
+                            <a href="CV.pdf" target="_blank"><img alt="" src="cv_logo.png" height=24/> </a>&nbsp; &nbsp;&nbsp;
+                            <!--Email icon-->
+                            <a href="mailto:aatrey@cs.umass.edu" target="_blank"><img alt="" src="email_logo.png" height=24/> </a>&nbsp; &nbsp;&nbsp;
+                            <!--LinkedIn icon-->
+                            <a href="https://www.linkedin.com/in/akankshaatrey/" target="_blank"><img alt="" src="linkedin_logo.png" height=24/> </a>&nbsp; &nbsp;&nbsp;
+                            <!--Github icon-->
+                            <a href="https://github.com/akanksha-atrey" target="_blank"><img alt="" src="github_logo.png" height=24/> </a>&nbsp; &nbsp;&nbsp;
+                            <!--Google Scholar icon-->
+                            <a href="https://scholar.google.com/citations?user=Jf_jES4AAAAJ&hl=en&oi=ao" target="_blank"><img alt="" src="gscholar_logo.png" height="24" width="24"/> </a>&nbsp; &nbsp;&nbsp;
+                        </div>
+                    </p>
+                </div>
+            </div>
         </div>
         <div style="clear:both"></div>
-        <div class="icon-bar">
-              <!--CV icon-->
-              <a href="CV.pdf" target="_blank"><img alt="" src="cv_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
-              <!--Email icon-->
-              <a href="mailto:aatrey@cs.umass.edu" target="_blank"><img alt="" src="email_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
-              <!--LinkedIn icon-->
-              <a href="https://www.linkedin.com/in/akankshaatrey/" target="_blank"><img alt="" src="linkedin_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
-              <!--Github icon-->
-              <a href="https://github.com/akanksha95" target="_blank"><img alt="" src="github_logo.png" /> </a>&nbsp; &nbsp;&nbsp;
-              <!--Google Scholar icon-->
-              <a href="https://scholar.google.com/citations?user=Jf_jES4AAAAJ&hl=en&oi=ao" target="_blank"><img alt="" src="gscholar_logo.png" height="32" width="32"/> </a>&nbsp; &nbsp;&nbsp;
-        </div>
         <hr>
+        <!--main content from index.md-->
         {% if page.is_contact == true %}
             <div class="container content contact">
                 {{ content }}
@@ -93,14 +62,4 @@
             </div>
         {% endif %}
     </div>
-    {% if site.tracking_id %}
-        <script>
-          (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-          (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-          m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-          })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-          ga('create', '{{ site.tracking_id }}', 'auto');
-          ga('send', 'pageview');
-        </script>
-    {% endif %}
 </body>
