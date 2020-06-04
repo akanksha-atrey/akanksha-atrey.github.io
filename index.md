@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a third year MS/Ph.D. student. My current research interests lie broadly at the intersection of machine learning, distributed systems, including IoT and blockchain, and privacy. Particularly, I am interested in characterizing, understanding and evaluating the privacy implications of advanced ML models when employing them to infer human behavior in distributed systems.
+I am a third year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, distributed systems, including IoT and blockchain, and privacy. Particularly, I am interested in characterizing, understanding and evaluating the privacy implications of advanced ML models when employing them in distributed systems.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop ML models.
 
