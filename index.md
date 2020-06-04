@@ -6,7 +6,7 @@ layout: default
 
 I am a third year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, distributed systems, including IoT and blockchain, and privacy. Particularly, I am interested in characterizing, understanding and evaluating the privacy implications of advanced ML models when employing them in distributed systems.
 
-My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop ML models.
+My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
