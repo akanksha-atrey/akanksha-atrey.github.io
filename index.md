@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a third year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, distributed systems, including IoT and blockchain, and privacy. Particularly, I am interested in characterizing, understanding and evaluating the privacy implications of advanced ML models when employing them in distributed systems.
+I am a third year MS/Ph.D. student. My current research interests lie at the intersection of distributed systems, machine learning, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building privacy-preserving distributed systems and machine learning models. 
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
@@ -14,6 +14,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). 
 * Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (December 2019)
 * Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (September 2019)
 * I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
@@ -28,7 +29,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 1. [**New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges**](https://arxiv.org/abs/2005.07338) \\
 	Saurabh Bagchi, Tarek F. Abdelzaher, Ramesh Govindan, Prashant Shenoy, **Akanksha Atrey**, Pradipta Ghosh, Ran Xu \\
-	_arXiv preprint arXiv:2005.07338_ 2020.
+	IEEE Internet of Things Journal 2020.
 
 1. [**Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL**](papers/atrey_exploratory_iclr20.pdf) \\
 	**Akanksha Atrey**, Kaleigh Clary, David Jensen \\
