@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a third year MS/Ph.D. student. My current research interests lie at the intersection of distributed systems, machine learning, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building privacy-preserving distributed systems and machine learning models. 
+I am a fourth year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building privacy-preserving distributed systems and machine learning models. 
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
@@ -85,6 +85,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 ## Activities
 
 * CICS Community Outreach Student Team – Founder/Chair **(Apr 2019 – present)**
+* ACM E-Energy - Volunteer **(June 2020)**
 * ACM/IEE IoTDI – Volunteer **(Apr 2020)**
 * CS Social – Chair **(Sep 2019 – May 2020)**
 * CS New Student Committee – Chair **(Sep 2017 – May 2020)**
