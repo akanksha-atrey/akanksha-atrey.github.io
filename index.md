@@ -31,7 +31,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 	Saurabh Bagchi, Tarek F. Abdelzaher, Ramesh Govindan, Prashant Shenoy, **Akanksha Atrey**, Pradipta Ghosh, Ran Xu \\
 	IEEE Internet of Things Journal 2020.
 
-1. [**Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep RL**](papers/atrey_exploratory_iclr20.pdf) \\
+1. [**Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning**](papers/atrey_exploratory_iclr20.pdf) \\
 	**Akanksha Atrey**, Kaleigh Clary, David Jensen \\
 	International Conference on Learning Representations (ICLR) 2020 
 
