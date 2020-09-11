@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-I am a fourth year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building explainable, generalizable and privacy-preserving personalized machine learning models on resource-constrained edge environments.
+I am a fourth year MS/Ph.D. student. My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building explainable, generalizable and privacy-preserving machine learning models on resource-constrained edge environments.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
