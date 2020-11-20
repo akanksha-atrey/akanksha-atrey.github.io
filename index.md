@@ -20,9 +20,6 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 * Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (September 2019)
 * I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
 * I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer. (May 2019)
-<!-- * I received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019) -->
-<!-- * Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
-* Our workshop paper titled "Generalization in Deep Reinforcement Learning" got accepted in the [Critiquing and Correcting Trends in Machine Learning Workshop](https://ml-critique-correct.github.io/) at [NeurIPS 2018](https://nips.cc/). (December 2018) -->
 
 ---
 
