@@ -14,14 +14,15 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
-* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). 
+* I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (November 2020)
+* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (June 2020) 
 * Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (December 2019)
 * Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (September 2019)
 * I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
 * I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer. (May 2019)
-* I received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019)
-* Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
-* Our workshop paper titled "Generalization in Deep Reinforcement Learning" got accepted in the [Critiquing and Correcting Trends in Machine Learning Workshop](https://ml-critique-correct.github.io/) at [NeurIPS 2018](https://nips.cc/). (December 2018)
+<!-- * I received an Honorable Mention for the [NSF Graduate Research Fellowship Program](https://www.nsfgrfp.org/). (April 2019) -->
+<!-- * Our paper titled "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" got accepted at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Main/sdm19). (December 2018)
+* Our workshop paper titled "Generalization in Deep Reinforcement Learning" got accepted in the [Critiquing and Correcting Trends in Machine Learning Workshop](https://ml-critique-correct.github.io/) at [NeurIPS 2018](https://nips.cc/). (December 2018) -->
 
 ---
 
@@ -84,8 +85,9 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Activities
 
-* CICS Committee Against Racism and for Equity: Sustaining – Chair **(Jun 2020 – present)**
+* CICS CARE: PhD Applicant Support Group - Chair **(Sep 2020 - present)**
 * CICS Community Outreach Student Team – Founder/Chair **(Apr 2019 – present)**
+* CICS Committee Against Racism and for Equity: Sustaining – Chair **(Jun 2020 – Sep 2020)**
 * ACM E-Energy - Volunteer **(June 2020)**
 * ACM/IEE IoTDI – Volunteer **(Apr 2020)**
 * CS Social – Chair **(Sep 2019 – May 2020)**
