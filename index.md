@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and blockchain. Particularly, I am interested in characterizing, evaluating and building explainable, generalizable and privacy-preserving machine learning models on resource-constrained edge environments.
+My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building explainable, generalizable and privacy-preserving machine learning models on resource-constrained edge environments.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
@@ -14,18 +14,23 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
-* I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (November 2020)
-* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (June 2020) 
-* Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (December 2019)
-* Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (September 2019)
+* Our new pre-print titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" is on [arXiv](https://arxiv.org/abs/2101.05855). (Jan 2021)
+* I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
+* I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
+* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (Jun 2020) 
+* Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (Dec 2019)
+* Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (Sep 2019)
 * I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019)
-* I will be joining [IBM Watson's Science for Social Good Initiative](https://www.research.ibm.com/science-for-social-good/) as a Research Intern this summer. (May 2019)
 
 ---
 
 ## Publications
 
-1. [**New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges**](https://arxiv.org/abs/2005.07338) \\
+1. [**Preserving Privacy in Personalized Models for Distributed Mobile Services**](https://arxiv.org/abs/2101.05855) \\
+	**Akanksha Atrey**, Prashant Shenoy, David Jensen \\
+	_arXiv preprint arXiv:2101.05855_ 2021.
+
+1. [**New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges**](papers/bagchi2020new.pdf) \\
 	Saurabh Bagchi, Tarek F. Abdelzaher, Ramesh Govindan, Prashant Shenoy, **Akanksha Atrey**, Pradipta Ghosh, Ran Xu \\
 	IEEE Internet of Things Journal 2020.
 
