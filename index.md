@@ -19,8 +19,6 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
 * Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (Jun 2020) 
 * Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (Dec 2019)
-<!-- * Our extended abstract on "Evaluating Saliency Maps Using Interventions" got accepted at [Women in Machine Learning Workshop 2019](https://wimlworkshop.org/2019/). (Sep 2019)
-* I presented our paper "Identifying When Effect Restoration Will Improve Estimates of Causal Effect" at the [SIAM International Conference on Data Mining 2019](https://www.siam.org/Conferences/CM/Conference/sdm19) in Calgary, Canada. (May 2019) -->
 
 ---
 
