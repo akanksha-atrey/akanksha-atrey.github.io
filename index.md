@@ -14,6 +14,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
 * Our new pre-print titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" is on [arXiv](https://arxiv.org/abs/2101.05855). (Jan 2021)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
 * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
@@ -24,13 +25,13 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Publications
 
+1. [**Preserving Privacy in Personalized Models for Distributed Mobile Services**](https://arxiv.org/abs/2101.05855) \\
+	**Akanksha Atrey**, Prashant Shenoy, David Jensen \\
+	IEEE International Conference on Distributed Computing Systems (ICDCS) 2021.
+
 1. [**Exploring E-petitioning and media: The case of #BringBackOurGirls**](https://doi.org/10.1016/j.giq.2021.101569) \\
 	Teresa M. Harrison, Catherine Dumas, Nic DePaula, Tim Fake, Will May, **Akanksha Atrey**, Jooyeon Lee, Lokesh Rishi, S.S. Ravi \\
 	Government Information Quarterly 2021.
-
-1. [**Preserving Privacy in Personalized Models for Distributed Mobile Services**](https://arxiv.org/abs/2101.05855) \\
-	**Akanksha Atrey**, Prashant Shenoy, David Jensen \\
-	_arXiv preprint arXiv:2101.05855_ 2021.
 
 1. [**New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges**](papers/bagchi2020new.pdf) \\
 	Saurabh Bagchi, Tarek F. Abdelzaher, Ramesh Govindan, Prashant Shenoy, **Akanksha Atrey**, Pradipta Ghosh, Ran Xu \\
@@ -38,7 +39,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 1. [**Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning**](papers/atrey_exploratory_iclr20.pdf) \\
 	**Akanksha Atrey**, Kaleigh Clary, David Jensen \\
-	International Conference on Learning Representations (ICLR) 2020 
+	International Conference on Learning Representations (ICLR) 2020.
 
 1. [**Identifying When Effect Restoration Will Improve Estimates of Causal Effect**](papers/Oktay_Effect_SDM19.pdf) \\
 	Hüseyin Oktay, **Akanksha Atrey**, David Jensen \\
