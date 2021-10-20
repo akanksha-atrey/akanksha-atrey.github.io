@@ -14,6 +14,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* I was award the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
 * Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
 * Our new pre-print titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" is on [arXiv](https://arxiv.org/abs/2101.05855). (Jan 2021)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
@@ -73,12 +74,13 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Awards and Honors
 
+* Dean’s Outstanding Anti-Racism Leadership Award **(May 2021)**
 * NSF Travel Grant for WiML 2019 **(Dec 2019)**
-* NSF Graduate Research Fellowship Program Honorable Mention **(April 2019)**
-* Lori A. Clarke Scholarship in Computer Science 2018 **(June 2018)**
+* NSF Graduate Research Fellowship Program Honorable Mention **(Apr 2019)**
+* Lori A. Clarke Scholarship in Computer Science 2018 **(Jun 2018)**
 * Lita and Stephen Greenwald Research Fund Award 2017 **(May 2017)**
-* ISO President's Medal for Exemplary Leadership **(April 2017)**
-* Spellman Top Academic Achievement Award 2017 **(April 2017)**
+* ISO President's Medal for Exemplary Leadership **(Apr 2017)**
+* Spellman Top Academic Achievement Award 2017 **(Apr 2017)**
 * CRA-W Research Scholar (for Grace Hopper Celebration) **(Oct 2016)**
 * Bruce B. and Louise Steen Gravitt Scholarship **(May 2016)**
 * Spellman Top Academic Achievement Award 2016 **(Mar 2016)**
