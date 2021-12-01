@@ -14,17 +14,22 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
-* I was award the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
+* Our paper titled "Measuring and Characterizing Generalization in Deep Reinforcement Learning" has been accepted at [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595). (Oct 2021)
+* I was awarded the 2020-2021 Outstanding Teaching Assistant Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (Oct 2021)
+* I was awarded the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
 * Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
 * Our new pre-print titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" is on [arXiv](https://arxiv.org/abs/2101.05855). (Jan 2021)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
 * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
 * Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (Jun 2020) 
-* Our paper titled "Exploratory Not Explanatory: Counterfactual Analysis of Saliency Maps for Deep Reinforcement Learning" got accepted at [ICLR 2020](https://openreview.net/forum?id=rkl3m1BFDB). (Dec 2019)
 
 ---
 
 ## Publications
+
+1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning.**](https://onlinelibrary.wiley.com/doi/10.1002/ail2.45) \\
+Sam Witty, Jun K. Lee, Emma Tosch, **Akanksha Atrey**, Kaleigh Clary, Michael L. Littman, David Jensen. \\
+Applied AI Letters 2021 
 
 1. [**Preserving Privacy in Personalized Models for Distributed Mobile Services**](https://arxiv.org/abs/2101.05855) \\
 	**Akanksha Atrey**, Prashant Shenoy, David Jensen \\
@@ -74,6 +79,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Awards and Honors
 
+* 2020-2021 Outstanding Teaching Assistant Award **(Oct 2021)**
 * Dean’s Outstanding Anti-Racism Leadership Award **(May 2021)**
 * NSF Travel Grant for WiML 2019 **(Dec 2019)**
 * NSF Graduate Research Fellowship Program Honorable Mention **(Apr 2019)**
