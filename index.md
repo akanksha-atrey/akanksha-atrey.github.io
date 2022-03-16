@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building explainable, generalizable and privacy-preserving machine learning models on resource-constrained edge environments.
+My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building privacy-preserving machine learning models on resource-constrained edge environments.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
@@ -14,20 +14,24 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* Our short paper titled "Towards Preserving Server-Side Privacy of On-Device Models" has been accepted at [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/). (Mar 2022)
+* I will be joining [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern this summer. (Feb 2022)
 * Our paper titled "Measuring and Characterizing Generalization in Deep Reinforcement Learning" has been accepted at [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595). (Oct 2021)
 * I was awarded the 2020-2021 Outstanding Teaching Assistant Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (Oct 2021)
 * I was awarded the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
 * Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
-* Our new pre-print titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" is on [arXiv](https://arxiv.org/abs/2101.05855). (Jan 2021)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
 * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
-* Our journal paper titled "New Frontiers in IoT: Networking, Systems, Reliability, and Security Challenges" got accepted in the [IEEE Internet of Things Journal](https://ieee-iotj.org/). (Jun 2020) 
 
 ---
 
 ## Publications
 
-1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning.**](https://onlinelibrary.wiley.com/doi/10.1002/ail2.45) \\
+1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
+Akanksha Atrey, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy
+The Web Conference (WWW) 2022
+
+1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning**](https://onlinelibrary.wiley.com/doi/10.1002/ail2.45) \\
 Sam Witty, Jun K. Lee, Emma Tosch, **Akanksha Atrey**, Kaleigh Clary, Michael L. Littman, David Jensen. \\
 Applied AI Letters 2021 
 
