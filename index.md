@@ -28,12 +28,12 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 ## Publications
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
-Akanksha Atrey, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy
-The Web Conference (WWW) 2022
+	Akanksha Atrey, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
+	The Web Conference (WWW) 2022.
 
 1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning**](https://onlinelibrary.wiley.com/doi/10.1002/ail2.45) \\
-Sam Witty, Jun K. Lee, Emma Tosch, **Akanksha Atrey**, Kaleigh Clary, Michael L. Littman, David Jensen. \\
-Applied AI Letters 2021 
+	Sam Witty, Jun K. Lee, Emma Tosch, **Akanksha Atrey**, Kaleigh Clary, Michael L. Littman, David Jensen \\
+	Applied AI Letters 2021. 
 
 1. [**Preserving Privacy in Personalized Models for Distributed Mobile Services**](https://arxiv.org/abs/2101.05855) \\
 	**Akanksha Atrey**, Prashant Shenoy, David Jensen \\
@@ -65,19 +65,19 @@ Applied AI Letters 2021
 
 1. [**Do Diverse Social Interactions Make Us Smile More Often? Studying Smiles and Diversity Via Social Media Photos**](https://wp.comminfo.rutgers.edu/vsingh/wp-content/uploads/sites/110/2017/10/ACMMM_Singh_Diversity_Smile.pdf) \\
 	Vivek K. Singh, **Akanksha Atrey**, Saket Hegde \\
-	ACM Multimedia (ACMMM) 2017
+	ACM Multimedia (ACMMM) 2017.
 
 1. [**Towards Measuring Fine-Grained Diversity Using Social Media Photographs**](https://pdfs.semanticscholar.org/e60b/a225993d2ae438dec5bb6918b29d3e344006.pdf) \\
 	Vivek K. Singh, Saket Hegde, **Akanksha Atrey** \\
-	International Conference on Web and Social Media (ICWSM) 2017
+	International Conference on Web and Social Media (ICWSM) 2017.
 
 1. [**E-Petitioning and Online Media: The Case of# BringBackOurGirls**](https://dl.acm.org/citation.cfm?id=3085320) \\
 	Teresa M. Harrison, Catherine Dumas, Nic DePaula, Tim Fake, Will May, **Akanksha Atrey**, Jooyeon Lee, Lokesh Rishi, S.S. Ravi\\
-	International Conference on Digital Government Research (dg.o) 2017 **(Best paper award)** 
+	International Conference on Digital Government Research (dg.o) 2017. **(Best paper award)** 
 
 1. [**E-petition Information Diffusion in Online Social Networks**](https://dl.acm.org/citation.cfm?id=2912227) \\
 	Catherine Dumas, **Akanksha Atrey**, Jooyeon Lee, Teresa M. Harrison, Tim Fake, Xiaoyi Zhao, S.S. Ravi \\
-	International Conference on Digital Government Research (dg.o) 2016
+	International Conference on Digital Government Research (dg.o) 2016.
 
 ---
 
