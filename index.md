@@ -29,7 +29,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
-	The Web Conference (WWW) 2022.
+	The Web Conference (WWW) 2022. [[poster](posters/WWW2022_atrey_towards.pdf)]
 
 1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning**](https://onlinelibrary.wiley.com/doi/10.1002/ail2.45) \\
 	Sam Witty, Jun K. Lee, Emma Tosch, **Akanksha Atrey**, Kaleigh Clary, Michael L. Littman, David Jensen \\
