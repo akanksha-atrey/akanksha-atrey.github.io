@@ -4,11 +4,13 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning, edge computing, and privacy with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building privacy-preserving machine learning models on resource-constrained edge environments.
+My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building trustworthy and privacy-preserving machine learning models on resource-constrained edge environments.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
+
+I will be on the job market soon for summer/fall 2023!
 
 ---
 
@@ -26,6 +28,10 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 ---
 
 ## Publications
+
+1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
+	**Akanksha Atrey**, Camellia Zakaria, Prashant Shenoy, Rajesh Balan \\
+	Under submission at the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2022.
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
@@ -102,8 +108,8 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Activities
 
-* CICS CARE: PhD Applicant Support Group - Chair **(Sep 2020 - present)**
-* CICS Community Outreach Student Team – Founder/Chair **(Apr 2019 – present)**
+* CICS Community Outreach Student Team – Founder/Chair **(Apr 2019 – Aug 2022)**
+* CICS CARE: PhD Applicant Support Group - Chair **(Sep 2020 - May 2022)**
 * CICS Committee Against Racism and for Equity: Sustaining – Chair **(Jun 2020 – Sep 2020)**
 * ACM E-Energy - Volunteer **(June 2020)**
 * ACM/IEE IoTDI – Volunteer **(Apr 2020)**
