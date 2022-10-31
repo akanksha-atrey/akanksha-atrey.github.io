@@ -10,7 +10,7 @@ My prior work in graduate school has been oriented towards employing causal mode
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
-I am on the job market for summer/fall 2023!
+**I am on the job market for summer/fall 2023!**
 
 ---
 
