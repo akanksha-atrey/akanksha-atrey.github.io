@@ -4,18 +4,19 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building trustworthy and privacy-preserving machine learning models on resource-constrained edge environments.
+My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
 
 My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
-I will be on the job market soon for summer/fall 2023!
+I am on the job market for summer/fall 2023!
 
 ---
 
 ## Recent News
 
+* I passed my Thesis Proposal Defense. (Oct 2022)
 * Our short paper titled "Towards Preserving Server-Side Privacy of On-Device Models" has been accepted at [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/). (Mar 2022)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern this summer. (Feb 2022)
 * Our paper titled "Measuring and Characterizing Generalization in Deep Reinforcement Learning" has been accepted at [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595). (Oct 2021)
