@@ -16,6 +16,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* I was awarded the CICS Dissertation Writing Fellowship. (Jan 2023)
 * I passed my Thesis Proposal Defense. (Oct 2022)
 * Our short paper titled "Towards Preserving Server-Side Privacy of On-Device Models" has been accepted at [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/). (Mar 2022)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern this summer. (Feb 2022)
@@ -23,16 +24,16 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 * I was awarded the 2020-2021 Outstanding Teaching Assistant Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (Oct 2021)
 * I was awarded the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
 * Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
-* I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021)
-* I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020)
+<!-- * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021) -->
+<!-- * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020) -->
 
 ---
 
 ## Publications
 
 1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
-	**Akanksha Atrey**, Camellia Zakaria, Prashant Shenoy, Rajesh Balan \\
-	Under submission at the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 2022.
+	**Akanksha Atrey**, Camellia Zakaria, Rajesh Balan, Prashant Shenoy \\
+	Under submission at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2023.
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
@@ -90,6 +91,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Awards and Honors
 
+* CICS Dissertation Writing Fellowship **(Jan 2023)**
 * 2020-2021 Outstanding Teaching Assistant Award **(Oct 2021)**
 * Dean’s Outstanding Anti-Racism Leadership Award **(May 2021)**
 * NSF Travel Grant for WiML 2019 **(Dec 2019)**
