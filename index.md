@@ -10,7 +10,8 @@ My prior work in graduate school has been oriented towards employing causal mode
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
-**I am on the job market for summer/fall 2023!**
+<span style="color: red">**I am on the job market for full-time industry positions!**
+</span>
 
 ---
 
@@ -62,10 +63,6 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 1. [**Identifying When Effect Restoration Will Improve Estimates of Causal Effect**](papers/Oktay_Effect_SDM19.pdf) \\
 	Hüseyin Oktay, **Akanksha Atrey**, David Jensen \\
 	SIAM International Conference on Data Mining (SDM) 2019.
-
-1. [**Measuring and Characterizing Generalization in Deep Reinforcement Learning**](https://arxiv.org/abs/1812.02868) \\
-	Sam Witty, Jun Ki Lee, Emma Tosch, **Akanksha Atrey**, Michael Littman, David Jensen \\
-	_arXiv preprint arXiv:1812.02868_ 2018.
 
 1. [**Generalization in Deep Reinforcement Learning**](papers/Witty_Generalization_NeurIPS18.pdf) \\
 	Sam Witty, Jun Ki Lee, Emma Tosch, **Akanksha Atrey**, Michael Littman, David Jensen \\
