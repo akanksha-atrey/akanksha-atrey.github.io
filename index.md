@@ -34,7 +34,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 1. **SODA: Protecting Proprietary Information in On-Device Machine Learning Models** \\
 	**Akanksha Atrey**, Ritwik Sinha, Saayan Mitra, Prashant Shenoy \\
-	Under submission at the ACM/IEEE Syposium of Edge Computing (SEC), 2023.
+	Under submission at the ACM/IEEE Symposium of Edge Computing (SEC), 2023.
 
 1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
 	**Akanksha Atrey**, Camellia Zakaria, Rajesh Balan, Prashant Shenoy \\
