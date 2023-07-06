@@ -32,6 +32,10 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Publications
 
+1. **SODA: Protecting Proprietary Information in On-Device Machine Learning Models** \\
+	**Akanksha Atrey**, Ritwik Sinha, Saayan Mitra, Prashant Shenoy \\
+	Under submission at the ACM/IEEE Syposium of Edge Computing (SEC), 2023.
+
 1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
 	**Akanksha Atrey**, Camellia Zakaria, Rajesh Balan, Prashant Shenoy \\
 	Under submission at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2023.
@@ -89,6 +93,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 ## Awards and Honors
 
 * CICS Dissertation Writing Fellowship **(Jan 2023)**
+* Adobe Research Gift Grant **(Sep 2022)**
 * 2020-2021 Outstanding Teaching Assistant Award **(Oct 2021)**
 * Dean’s Outstanding Anti-Racism Leadership Award **(May 2021)**
 * NSF Travel Grant for WiML 2019 **(Dec 2019)**
