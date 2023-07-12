@@ -17,8 +17,10 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Recent News
 
+* I was selected as a [Machine Learning and Systems Rising Star](https://mlcommons.org/en/rising-stars-2023/) in the 2023 cohort. (Aug 2023)
 * I was awarded the CICS Dissertation Writing Fellowship. (Jan 2023)
 * I passed my Thesis Proposal Defense. (Oct 2022)
+* We were awarded the Adobe Research Gift Grant to pursue our work on proprietary information in on-device models. (Sep 2022)
 * Our short paper titled "Towards Preserving Server-Side Privacy of On-Device Models" has been accepted at [The Web Conference (WWW) 2022](https://www2022.thewebconf.org/). (Mar 2022)
 * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Scientist Intern this summer. (Feb 2022)
 * Our paper titled "Measuring and Characterizing Generalization in Deep Reinforcement Learning" has been accepted at [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595). (Oct 2021)
@@ -92,6 +94,7 @@ Prior to joining UMass, I was a software engineer at IBM where I worked on the z
 
 ## Awards and Honors
 
+* Machine Learning and Systems Rising Star 2023 **(Aug 2023)**
 * CICS Dissertation Writing Fellowship **(Jan 2023)**
 * Adobe Research Gift Grant **(Sep 2022)**
 * 2020-2021 Outstanding Teaching Assistant Award **(Oct 2021)**
