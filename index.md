@@ -4,9 +4,9 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. Particularly, I am interested in characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
+My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. My work has spanned over building systems for machine learning that enable explainability and generalizability, building trustworthy and privacy-preserving ML systems, and designing machine learning solutions for ubiquitous computing. 
 
-My prior work in graduate school has been oriented towards employing causal modeling techniques to understand, evaluate and develop deep reinforcement learning agents.
+Particularly, my PhD thesis focuses on characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
