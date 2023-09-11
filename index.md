@@ -10,8 +10,7 @@ Particularly, my PhD thesis focuses on characterizing, evaluating and building t
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
-<span style="color: red">**I am on the job market for full-time industry positions!**
-</span>
+Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/#gref) as a Research Scientist in the Autonomous Systems Research Department.
 
 ---
 
