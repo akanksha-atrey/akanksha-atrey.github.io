@@ -16,6 +16,8 @@ Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/
 
 ## Recent News
 
+* Our paper titled "W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing" has been accepted at the [ACM CSCW 2024](https://cscw.acm.org/2023/). (Sep 2023)
+* Our paper titled "SODA: Protecting Proprietary Information in On-Device Machine Learning Models" has been accepted at the [ACM/IEEE SEC 2023](http://acm-ieee-sec.org/2023/). (Sep 2023)
 * I was selected as a [Machine Learning and Systems Rising Star](https://mlcommons.org/en/rising-stars-2023/) in the 2023 cohort. (Aug 2023)
 * I was awarded the CICS Dissertation Writing Fellowship. (Jan 2023)
 * I passed my Thesis Proposal Defense. (Oct 2022)
@@ -33,13 +35,13 @@ Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/
 
 ## Publications
 
-1. **SODA: Protecting Proprietary Information in On-Device Machine Learning Models** \\
-	**Akanksha Atrey**, Ritwik Sinha, Saayan Mitra, Prashant Shenoy \\
-	Under submission at the ACM/IEEE Symposium of Edge Computing (SEC), 2023.
-
 1. **W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing** \\
 	**Akanksha Atrey**, Camellia Zakaria, Rajesh Balan, Prashant Shenoy \\
-	Under submission at the ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2023.
+	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2024.
+
+1. **SODA: Protecting Proprietary Information in On-Device Machine Learning Models** \\
+	**Akanksha Atrey**, Ritwik Sinha, Saayan Mitra, Prashant Shenoy \\
+	ACM/IEEE Symposium of Edge Computing (SEC), 2023.
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
