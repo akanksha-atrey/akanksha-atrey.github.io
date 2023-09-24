@@ -6,7 +6,7 @@ layout: default
 
 My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. My work has spanned over building systems for machine learning that enable explainability and generalizability, building trustworthy and privacy-preserving ML systems, and designing machine learning solutions for ubiquitous computing. 
 
-Particularly, my PhD thesis focuses on characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
+Particularly, my PhD thesis focused on characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
 
 Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
@@ -16,6 +16,7 @@ Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/
 
 ## Recent News
 
+* I successfully defended my PhD thesis! (Sep 2023)
 * Our paper titled "W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing" has been accepted at the [ACM CSCW 2024](https://cscw.acm.org/2023/). (Sep 2023)
 * Our paper titled "SODA: Protecting Proprietary Information in On-Device Machine Learning Models" has been accepted at the [ACM/IEEE SEC 2023](http://acm-ieee-sec.org/2023/). (Sep 2023)
 * I was selected as a [Machine Learning and Systems Rising Star](https://mlcommons.org/en/rising-stars-2023/) in the 2023 cohort. (Aug 2023)
