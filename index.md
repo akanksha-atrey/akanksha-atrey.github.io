@@ -40,9 +40,9 @@ Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/
 	**Akanksha Atrey**, Camellia Zakaria, Rajesh Balan, Prashant Shenoy \\
 	ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2024.
 
-1. **SODA: Protecting Proprietary Information in On-Device Machine Learning Models** \\
+1. [**SODA: Protecting Proprietary Information in On-Device Machine Learning Models**](papers/atrey2023soda.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Saayan Mitra, Prashant Shenoy \\
-	ACM/IEEE Symposium of Edge Computing (SEC), 2023.
+	ACM/IEEE Symposium of Edge Computing (SEC) 2023.
 
 1. [**Towards Preserving Server-Side Privacy of On-Device Models.**](papers/atrey2022towards.pdf) \\
 	**Akanksha Atrey**, Ritwik Sinha, Somdeb Sarkhel, Saayan Mitra, David Arbour, Akash V. Maharaj, Prashant Shenoy \\
