@@ -4,18 +4,17 @@ layout: default
 
 ## About Me
 
-My current research interests lie at the intersection of machine learning and edge computing with a focus on applications in IoT and mobile computing. My work has spanned over building systems for machine learning that enable explainability and generalizability, building trustworthy and privacy-preserving ML systems, and designing machine learning solutions for ubiquitous computing. 
+I am a Researcher in the Autonomous Systems Research Department at [Nokia Bell Labs](https://www.bell-labs.com/#gref), where I work on AI/ML systems, decentralized energy systems, autonomous networks, and Web3 infrastructure.
 
-Particularly, my PhD thesis focused on characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems on resource-constrained edge environments.
+My prior work has spanned over building systems for machine learning that enable explainability and generalizability, building trustworthy and privacy-preserving ML systems, and designing machine learning solutions for ubiquitous computing. My PhD thesis focused on characterizing, evaluating and building trustworthy and privacy-preserving machine learning systems for resource-constrained edge environments.
 
-Prior to joining UMass, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
-
-Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/#gref) as a Research Scientist in the Autonomous Systems Research Department.
+Prior to joining graduate school, I was a software engineer at IBM where I worked on the z/OS Mainframe. I completed my Bachelor of Science in Mathematics and Computer Science from the [University at Albany, SUNY](https://www.albany.edu/).
 
 ---
 
 ## Recent News
 
+* I joined [Nokia Bell Labs](https://www.bell-labs.com/#gref) as a Researcher. (Nov 2023)
 * I successfully defended my PhD thesis! (Sep 2023)
 * Our paper titled "W4-Groups: Modeling the Who, What, When and Where of Group Behavior Via Mobility Sensing" has been accepted at the [ACM CSCW 2024](https://cscw.acm.org/2023/). (Sep 2023)
 * Our paper titled "SODA: Protecting Proprietary Information in On-Device Machine Learning Models" has been accepted at the [ACM/IEEE SEC 2023](http://acm-ieee-sec.org/2023/). (Sep 2023)
@@ -28,7 +27,7 @@ Starting October, I will be joining [Nokia Bell Labs](https://www.bell-labs.com/
 * Our paper titled "Measuring and Characterizing Generalization in Deep Reinforcement Learning" has been accepted at [Applied AI Letters](https://onlinelibrary.wiley.com/journal/26895595). (Oct 2021)
 * I was awarded the 2020-2021 Outstanding Teaching Assistant Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (Oct 2021)
 * I was awarded the Dean’s Outstanding Anti-Racism Leadership Award by [CICS](https://www.cics.umass.edu/), UMass Amherst. (May 2021)
-* Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021)
+<!-- * Our paper titled "Preserving Privacy in Personalized Models for Distributed Mobile Services" has been accepted at [IEEE ICDCS 2021](https://icdcs2021.us/). (Mar 2021) -->
 <!-- * I will be joining [Adobe Research](https://research.adobe.com/) as a Research Intern this summer. (Jan 2021) -->
 <!-- * I gave an invited talk on machine learning on the edge at the [Data Science Seminar](http://datascience.utah.edu/seminar.html) at the [Utah Center for Data Science, University of Utah](http://datascience.utah.edu/index.html). (Nov 2020) -->
 
